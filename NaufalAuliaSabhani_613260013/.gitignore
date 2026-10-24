@@ -1,0 +1,15 @@
+# Berkas Python
+__pycache__/
+*.py[cod]
+*&py.class
+
+#berkas IDE
+.vscode/
+.idea/
+*.swp
+
+#berkas environment
+.env
+.venv/
+env/
+venv/
